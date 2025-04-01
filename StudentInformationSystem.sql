@@ -9,7 +9,4 @@ CREATE TABLE students (
     contactno BIGINT
 );
 
-select * from students;
-DROP table students;
-ALTER TABLE students MODIFY contactno BIGINT;
 
